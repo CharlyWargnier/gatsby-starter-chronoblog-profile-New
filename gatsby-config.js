@@ -15,7 +15,7 @@ module.exports = {
     social: [
       {
         icon: `envelope`,
-        url: `mailto:cwar05@gmail.com`
+        url: `mailto:cwar06@gmail.com`
       },
       {
         icon: `twitter`,
