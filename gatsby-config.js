@@ -1,34 +1,30 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Profile Starter',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'Charly Wargnier - SEO and BI Consultant',
+    siteDescription: 'Charly Wargnier - SEO and BI Consultant',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://chronoblog-profile.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Charly Wargnier', // for example - 'Ivan Ganev'
+    authorDescription: 'Lorem Ipsum is simply dummy text', // short text about the author
     avatar: '/avatar.jpg',
-    twitterSite: '', // website account on twitter
+    twitterSite: '' , // website account on twitter
     twitterCreator: '', // creator account on twitter
     social: [
       {
         icon: `envelope`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:cwar05@gmail.com`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/datachaz`
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://github.com/CharlyWargnier`
       },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
-      }
     ]
   },
   plugins: [
