@@ -7,8 +7,8 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Charly Wargnier', // for example - 'Ivan Ganev'
-    authorDescription: 'Lorem Ipsum is simply dummy text', // short text about the author
+    author: 'Hey, I’m Charly!', // for example - 'Ivan Ganev'
+    authorDescription: 'I’m an SEO & BI consultant. I help businesses succeed online.', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '' , // website account on twitter
     twitterCreator: '', // creator account on twitter
